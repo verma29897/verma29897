@@ -26,10 +26,12 @@
 
 ### 🛠️ Skills
 
-- **Languages:** Python, SQL
-- **Frameworks:** Django, FastAPI, Django Rest Framework (DRF)
-- **Tools & Technologies:** Docker, WSL2, Meta’s WhatsApp Business API, Webhooks
-- **Other:** Machine Learning, Data Science, Algorithmic Problem Solving
+- **Programming Languages:** Python, C
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, FastAPI, Django, Machine Learning, Web Scraping
+- **Cloud & Infrastructure:** AWS-EC2, Nginx, CI/CD
+- **DevOps & Security:** Linux, Shell Scripting, Git, Iptables, Suricata, Pfring, Paramiko, Putty
+- **APIs & Databases:** API Design, Endpoints, Schema Designing, PostgreSQL, SQL, Data Analysis, Prediction, Modeling
+
 
 ### 📈 Personal Projects
 - **Social Networking API:** Developed a custom **social networking API** using **Django Rest Framework**, focusing on user interaction and scalability.
@@ -37,6 +39,6 @@
 
 ### 🔗 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
-- GitHub: [Your GitHub Profile](https://www.github.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/verma29897/)
+- GitHub: [Your GitHub Profile](https://www.github.com/verma29897)
 
