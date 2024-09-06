@@ -39,6 +39,6 @@
 
 ### 🔗 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/verma29897/)
-- GitHub: [Your GitHub Profile](https://www.github.com/verma29897)
+- LinkedIn:(https://www.linkedin.com/in/verma29897/)
+- GitHub: (https://www.github.com/verma29897)
 
