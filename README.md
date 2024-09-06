@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🎓 I have a strong foundation in **Electrical, Electronics, and Communications Engineering** and have transitioned into a career in **Python development**, where I have **2.7 years** of experience in building robust backend systems and **3.5 years** solving algorithmic challenges.
-- 🖥️ Currently, I'm leading the development of a **SaaS product** at **Itsolution4India**, specializing in **scalable backend infrastructure** for **bulk SMS management via WhatsApp**.
+- 🖥️ Currently, I'm leading the development of a **SaaS product** at **Itsolutions4India**, specializing in **scalable backend infrastructure** for **bulk SMS management via WhatsApp**.
 - 🌱 I’m passionate about **Machine Learning**, **Data Science**, and **Django**, continuously pushing the boundaries of technology with a research-oriented mindset.
 - 💬 Feel free to ask me about **Python**, **Django**, **FastAPI**, **Data Science**, **SQL**, **Docker**, and **Webhooks**.
 
