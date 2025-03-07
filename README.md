@@ -14,7 +14,7 @@
 ## 💼 Work Experience  
 
 ### 🏢 **WhiteLint Global Pvt Ltd** – *Software Developer (R&D)*  
-📅 *Jan 2023 - Mar 2024 (1 yr 3 mos)* | 📍 *Delhi, India* (On-site)  
+📅 *Jan 2023 - Present* | 📍 *Delhi, India* (On-site)  
 
 #### **Malware Defense Solutions**  
 - Developed **Wafer**, an **embedded Linux solution** to combat malware threats like ransomware, viruses, and worms.  
