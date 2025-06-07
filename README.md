@@ -1,82 +1,127 @@
-# 👋 Hello, I'm Krishna Kumar Verma  
+# 👋 Hello, I'm Krishna Kumar Verma
 
-**Senior Python Developer | Full-stack Developer | Machine Learning Enthusiast**  
-
-## 🚀 About Me  
-
-- 🎓 Strong foundation in **Electrical, Electronics, and Communications Engineering**, transitioned into **Python development** with **2.7 years of experience** in backend development and **3.5 years** in algorithmic problem-solving.  
-- 💡 Passionate about **Machine Learning, Data Science, and Django**, constantly exploring **automation and research-based projects**.  
-- 🔧 Specializing in **scalable backend systems, API development, and data-driven applications**.  
-- 💬 Ask me about **Python, Django, FastAPI, Data Science, SQL, Docker, Webhooks, and Cloud Infrastructure**.  
+**🔧 Senior Backend Developer | 🐍 Python & 🦫 Golang Specialist | 🔒 Security-Focused Engineer | ☁️ Cloud & Automation Enthusiast**
 
 ---
 
-## 💼 Work Experience  
+## 🚀 About Me
 
-### 🏢 **WhiteLint Global Pvt Ltd** – *Software Developer (R&D)*  
-📅 *Jan 2023 - Present* | 📍 *Delhi, India* (On-site)  
+I'm a passionate and experienced **Backend Developer** with over **2.7 years of professional experience** in building robust, secure, and scalable server-side applications using **Python**, **Golang**, and modern cloud infrastructure. I hold a degree in **Electronics and Communication Engineering**, and transitioned into software development driven by my curiosity and problem-solving mindset.
 
-#### **Malware Defense Solutions**  
-- Developed **Wafer**, an **embedded Linux solution** to combat malware threats like ransomware, viruses, and worms.  
-- Implemented **real-time packet filters** to detect and block malicious packets.  
-- Designed **firewall rules** to enhance network security and prevent unauthorized access.  
-
-#### **Azure IoT Hub Integration**  
-- Developed an **Azure IoT Hub script** for **real-time monitoring and data transmission**.  
-- Optimized scripts for **low latency and high performance** in an **Azure cloud environment**.  
-- Automated routine tasks to **reduce manual effort and increase productivity**.  
-
-#### **Network Configuration Automation**  
-- Created a **Flask web app** for **remote network configuration** via SSH.  
-- Managed **static and dynamic IPs** for easy configuration.  
-- Optimized **database performance** through indexing and query tuning.  
+My expertise lies in architecting **backend systems**, designing **RESTful APIs**, and implementing **security-first solutions** involving encryption, automation, and real-time data processing.
 
 ---
 
-### 🏢 **Sofcon India Pvt Ltd** – *Software Engineer*  
-📅 *Jun 2022 - Dec 2022 (7 mos)* | 📍 *Delhi, India* (On-site)  
+## 💼 Professional Experience
 
-#### **Training Development & Teaching**  
-- Developed a **Data Science training program** covering **Python, NumPy, Pandas, Matplotlib, and Scikit-learn**.  
-- Taught **Machine Learning concepts**, including **supervised and unsupervised algorithms**.  
-- Designed **real-world projects** to provide hands-on learning experience.  
+### 👨‍💻 **Timble Technologies Pvt Ltd** — *Software Development Engineer (L3)*
+🗓️ *Feb 2025 – Present* | 🌍 Delhi, India
 
-#### **Practical Application & Support**  
-- Used **Matplotlib and Seaborn** for **data visualization**.  
-- Assisted students in **building and deploying machine learning models**.  
-- Focused on **project-based learning** to enhance problem-solving skills.  
+**🔐 Secure Key Management & Auto-Unseal Platform**
+- Engineered a **Vault-like key management system** in **Go** with support for **Shamir’s Secret Sharing**.
+- Integrated **Consul** as the backend for shard storage and automatic high availability coordination.
+- Built secure **CLI and REST APIs** for operations like seal/unseal, encryption/decryption, and key management.
+- Designed and packaged a cross-platform **CLI tool** with support for AES, RSA, and PGP-based encryption.
+- Automated **Windows MSI installer** creation via WiX Toolset and Go CI/CD pipelines.
 
----
-
-## 🛠️ Skills  
-
-- **Programming Languages:** Python, C, C++  
-- **Frameworks & Tools:** Django, Django Rest Framework (DRF), FastAPI, Flask, Pandas, NumPy, Matplotlib, Scikit-learn, Web Scraping  
-- **Cloud & Infrastructure:** Azure IoT, AWS (EC2, S3), Nginx, CI/CD Pipelines, Docker, Virtualization  
-- **DevOps & Security:** Linux, Shell Scripting, Git, Iptables, Suricata, Pfring, Paramiko, Putty  
-- **APIs & Databases:** RESTful API Design, PostgreSQL, SQL, MongoDB, Schema Designing, Data Modeling  
+**📦 Encryption Engine & Delivery Tooling**
+- Per-file AES key generation with secure **RSA public key encryption** via Vault.
+- Bundled encrypted data + encrypted key into secure delivery packages.
+- Integrated with enterprise CI/CD for **silent installs**, versioning, and upgrades.
 
 ---
 
-## 📈 Personal Projects  
+### 🛡️ **WhiteLint Global Pvt Ltd** — *Software Developer (R&D)*
+🗓️ *Jan 2023 – Mar 2024* | 🌍 Delhi, India
 
-### 🔹 **Social Networking API**  
-- Developed a **social networking API** using **Django Rest Framework (DRF)**.  
-- Features **user authentication, content sharing, and JWT-based security**.  
+**🦠 Malware Defense & Embedded Systems**
+- Developed **Wafer**, an **embedded Linux-based security system** for malware detection and mitigation.
+- Implemented **real-time packet filtering**, **firewall rule enforcement**, and traffic anomaly analysis.
+- Created a **Golang web interface** for secure remote configuration using SSH (static/dynamic IP support).
 
-### 🔹 **Bulk Messaging System (WhatsApp API)**  
-- Implemented an **automated WhatsApp Business API** for businesses.  
-- Features **dynamic message scheduling, template approval automation, and webhook tracking**.  
-
-### 🔹 **Market Mood Index (MMI) Analysis**  
-- Built a **real-time market sentiment tracking system** using **web scraping**.  
-- Visualized **historical trends with an analytics dashboard**.  
+**☁️ Azure IoT Hub & Cloud Migration**
+- Integrated **Azure IoT Hub** for real-time telemetry and low-latency data processing.
+- Migrated workloads to hybrid cloud with optimized scripts for telemetry, storage, and alerting.
+- Improved system performance with **DB indexing**, caching, and automation of routine tasks.
 
 ---
 
+### 👨‍🏫 **Sofcon India Pvt Ltd** — *Software Engineer / Trainer*
+🗓️ *Jun 2022 – Dec 2022* | 🌍 Delhi, India
 
-### 🔗 Connect With Me
+- Designed and delivered a **complete Data Science training program** covering **Python, ML, and API design**.
+- Taught hands-on projects using **NumPy**, **Pandas**, **Matplotlib**, and **Scikit-learn**.
+- Trained students in solving real-world problems using **supervised and unsupervised ML algorithms**.
+- Promoted project-based learning to instill strong data intuition and backend fundamentals.
 
-- LinkedIn:(https://www.linkedin.com/in/verma29897/)
-- GitHub: (https://www.github.com/verma29897)
+---
+
+## 🧪 Projects
+
+### 🔐 Vault-like Key Management System (Go + Consul)
+> Secure secrets engine with support for key sealing/unsealing, AES/RSA/PGP encryption, and auto-unseal failover using open-source tooling.
+
+### 📊 Market Mood Index (MMI)
+> Real-time stock sentiment analysis tool with web scraping, visual dashboards, and historical trend tracking.
+
+### 💬 Bulk Messaging Platform (WhatsApp API)
+> Business tool to send automated, scheduled messages using WhatsApp Business API with webhook support and message templates.
+
+### 🌐 Social Networking API
+> Django REST API with user auth, JWT-based sessions, post sharing, and friend suggestions.
+
+### 🌡️ IoT Weather Prototype
+> Arduino-based temperature & humidity sensor prototype for real-time environmental monitoring.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+`Python` `Golang` `C++` `Bash`
+
+### 🧰 Frameworks & Libraries
+`Django` `DRF` `FastAPI` `Flask` `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+### ☁️ Cloud & Infrastructure
+`AWS EC2` `Azure IoT` `Docker` `Nginx` `Vault` `Consul` `CI/CD Pipelines` `Virtualization`
+
+### 🛡️ DevOps & Security
+`Linux` `Shell Scripting` `Git` `Iptables` `Suricata` `PF_RING` `Paramiko` `WiX Toolset`
+
+### 🗄️ Databases & APIs
+`PostgreSQL` `MongoDB` `SQL` `RESTful API Design` `Schema Design` `Data Modeling`
+
+### 📊 Monitoring & Ops
+`Prometheus` `Grafana` `Logging & Alerting`
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ **5⭐ Python Developer** on HackerRank  
+- 🥇 **Certified in:** Python Programming, REST API Design, Data Analysis  
+- 🧠 Self-learner with focus on **mathematical foundations of ML** (statistics, algorithms)  
+- 🛠️ Contributed to multiple open-source backend and tooling projects
+
+---
+
+## 📈 GitHub Stats
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=verma29897&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verma29897&layout=compact&theme=radical)
+
+---
+
+## 📬 Contact Me
+
+- ✉️ **Email:** [krishnakrverma97@gmail.com](mailto:krishnakrverma97@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/verma29897](https://linkedin.com/in/verma29897)  
+- 💻 **GitHub:** [github.com/verma29897](https://github.com/verma29897)  
+- 📄 **Resume (PDF):** [Click Here](https://github.com/verma29897/your-resume-link)
+
+---
+
+> “I’m passionate about writing clean code, securing systems, and building solutions that scale.”  
+> — Krishna Kumar Verma
 
