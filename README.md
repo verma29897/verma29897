@@ -118,7 +118,7 @@ My expertise lies in architecting **backend systems**, designing **RESTful APIs*
 - ✉️ **Email:** [krishnakrverma97@gmail.com](mailto:krishnakrverma97@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/verma29897](https://linkedin.com/in/verma29897)  
 - 💻 **GitHub:** [github.com/verma29897](https://github.com/verma29897)  
-- 📄 **Resume (PDF):** [Click Here](https://github.com/verma29897/your-resume-link)
+- 📄 **Resume (PDF):** [Click Here](https://github.com/verma29897/verma29897/blob/main/krishna_sde1.pdf)
 
 ---
 
